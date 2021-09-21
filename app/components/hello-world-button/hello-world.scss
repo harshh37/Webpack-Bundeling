@@ -1,0 +1,13 @@
+$btn-bg :green;
+$btn-color :white;
+$plain-text : red;
+
+.hello-button{
+  background:$btn-bg;
+  color: $btn-color;
+  padding:10px;
+}
+
+.hello-text{
+  color:$plain-text;
+}
